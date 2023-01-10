@@ -32,7 +32,7 @@
 
 ---
 
-<!--Primitive Types-->
+<!--BENİ YAZ-->
 <details>
      <summary><h2>Primitive Types</h2></summary>
    
