@@ -7,10 +7,13 @@
 </div>
    
    <div id="down-title" align="center">
- <h3>── Code Implementation and Exercises From Absolute Java Book ──<h3>
+ <h2>── Code Implementation and Exercises From Absolute Java Book ──<h2>
 </div>
    
+   <details>
+     <summary><h1>Java Basic</h1></summary>
 <!--Primitive Types-->
+
 <details>
      <summary><h2>Primitive Types</h2></summary>
    
@@ -39,3 +42,5 @@
 ####  Primitive Types: byte, short, int, long, float, double 
      
 </details>
+</details>
+
