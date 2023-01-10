@@ -1,6 +1,6 @@
 
 <div id="title" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1022316009077608593/1062432981815406695/Varlk_1.png" width="225" />
+  <img src="https://cdn.discordapp.com/attachments/1022316009077608593/1062441056102256770/Varssslk_1.png" width="250" />
 </div>
 
 <div id="title" align="center">
