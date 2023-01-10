@@ -1,13 +1,14 @@
-###
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/19970595/196669301-8cd9fc25-3f95-42d2-b965-94a5063ef865.jpg" width="150"/>
-</div>
+
 <div id="title" align="center">
-  <h1> ─────── EFFICIENT HOUSE ─────── <h1> 
+  <img src="https://cdn.discordapp.com/attachments/1022316009077608593/1062432981815406695/Varlk_1.png" width="300" />
+</div>
+
+<div id="title" align="center">
+  <img src="https://cdn.discordapp.com/attachments/1022316009077608593/1062432667926282240/Ekran_goruntusu_2023-01-10_210611.jpg" width="600" />
 </div>
    
    <div id="down-title" align="center">
- <h2>── Code Implementation and Exercises From Absolute Java Book ──<h2>
+ <h3>༻── Code Implementation and Exercises From Absolute Java Book ──༺<h3>
 </div>
    
    <details>
@@ -27,7 +28,7 @@
      
 </details>
 
-###
+---
 
 <!--Primitive Types-->
 <details>
