@@ -1,11 +1,13 @@
 
 <div id="title" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1022316009077608593/1062432981815406695/Varlk_1.png" width="300" />
+  <img src="https://cdn.discordapp.com/attachments/1022316009077608593/1062432981815406695/Varlk_1.png" width="225" />
 </div>
 
 <div id="title" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1022316009077608593/1062432667926282240/Ekran_goruntusu_2023-01-10_210611.jpg" width="600" />
+  <img src="https://cdn.discordapp.com/attachments/1022316009077608593/1062432667926282240/Ekran_goruntusu_2023-01-10_210611.jpg" width="550" />
 </div>
+   
+   ---
    
    <div id="down-title" align="center">
  <h3>༻── Code Implementation and Exercises From Absolute Java Book ──༺<h3>
