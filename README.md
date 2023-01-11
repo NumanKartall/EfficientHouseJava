@@ -15,54 +15,64 @@
    
    <details>
      <summary><h1>Java Basic</h1></summary>
+
+<!--Primitive Types-->
+     
+<details>
+     <summary><h2>Primitive Types</h2></summary>
+   
+### [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br>
+       
+###   Topic:
+####  Primitive Types </br>   
+
+###   Context:
+####  Primitive Types: byte, short, int, long, float, double </br>
+
+###   Lesson Date:
+####  23.09.2022 </br> 
+     
+</details>
+
+---
+
+<!--Expressions and Assigment and Operators -->
+
+<details>
+     <summary><h2>Expressions and Assigment</h2></summary>
+   
+### [Expressions and Assigment](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l2/ExpressionsAndAssignment.java) </br> </br> 
+       
+###   Topic:
+####  Expressions and Assigment </br> 
+
+###   Context:
+####  Variable Expression and Variable Assignment (dec. init.) </br> 
+
+###   Lesson Date:
+####  23.09.2022 </br> 
+     
+</details>
+
+---
+
 <!--Primitive Types-->
 
 <details>
      <summary><h2>Primitive Types</h2></summary>
    
-  ### [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br> </br>
+### [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br> </br>
        
-###   Lesson Date:
-####  23.09.2022 </br> </br>
-     
+###   Topic:
+####  Primitive Types </br> </br>  
+
 ###   Context:
 ####  Primitive Types: byte, short, int, long, float, double
-     
-</details>
 
----
-
-<!--BENİ YAZ-->
-<details>
-     <summary><h2>ORNEK-1</h2></summary>
-   
-  ### [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br> </br>
-       
 ###   Lesson Date:
 ####  23.09.2022 </br> </br>
      
-###   Context:
-####  Primitive Types: byte, short, int, long, float, double 
-     
 </details>
 
----
-
-
-<!--BENİ YAZ-->
-<details>
-     <summary><h2>ORNEK2</h2></summary>
-   
-  ### [Primitive Types](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l1/PrimitiveTypes.java) </br> </br> </br>
-       
-###   Lesson Date:
-####  23.09.2022 </br> </br>
-     
-###   Context:
-####  Primitive Types: byte, short, int, long, float, double 
-     
-</details>
-
----
 </details>
 
