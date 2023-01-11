@@ -129,7 +129,7 @@
 <details>
      <summary><h2>Print Methods</h2></summary>
   
-### [String Class](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l4/PrintMethods.java) </br> </br>
+### [Print Methods](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/l4/PrintMethods.java) </br> </br>
   
 ###   Topic:
 ####  Print Methods </br> </br>  
