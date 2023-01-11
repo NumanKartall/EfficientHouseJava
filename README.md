@@ -1,16 +1,18 @@
 
-<div id="title" align="center">
+
+
+<div align="center">
   <img src="https://cdn.discordapp.com/attachments/1022316009077608593/1062441056102256770/Varssslk_1.png" width="250" />
 </div>
 
-<div id="title" align="center">
+<div align="center">
   <img src="https://cdn.discordapp.com/attachments/1022316009077608593/1062432667926282240/Ekran_goruntusu_2023-01-10_210611.jpg" width="550" />
 </div>
    
 ---
    
    <div id="down-title" align="center">
- <h3>༻── Code Implementation and Exercises From Absolute Java Book ──༺<h3>
+ <h3>༻── Code Implementation and Exercises From Absolute Java Book ──༺</h3>
 </div> </br>
    
    <details>
