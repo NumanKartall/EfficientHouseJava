@@ -41,7 +41,7 @@
 |1|`01.10.2022 - 02.10.2022`|[Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 2](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/Operators.java)|Operators Lesseons| 
 |2|`08.10.2022 - 09.10.2022`|[And Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 3](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/AndOperators.java)|And operator lessons With Deynekci Hodjas| 
 |3|`15.10.2022 - 16.10.2022`|[Or Operators](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 4](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/OrOperators.java)|Or operators| 
-|4|`22.10.2022 - 23.10.2022`|[Ternary Operator](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 5](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/TernaryOperator.java)|Ternary operators| 
+|4|`22.10.2022 - 23.10.2022`|[Ternary Operator](https://github.com/erenuygur/EfficientHouseJava/tree/main/src/lessons/languagebasics)|[Lesson 5](https://github.com/erenuygur/EfficientHouseJava/blob/main/src/lessons/languagebasics/TernaryOperator.java#L1)|Ternary operators| 
      
 <details>
      <summary>  <h4>Operators Examples</h4></summary>
