@@ -2,7 +2,7 @@
 
 **<div align="left"></div>** 
 
-<img align="right" width="170" height="170" src="https://r.resimlink.com/KLoxD.gif"/>
+<img align="right" width="170" height="170" src="https://r.resimlink.com/JIPwA5jc.gif"/>
 
 </br>
 
